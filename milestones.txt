@@ -1,0 +1,15 @@
+Milestones
+
+November 28th 
+Using the 3 selected datasets, each member will look into their assigned data type (numbers, language, locations) and generate a Spark script which will classify their chosen data types into the 4 categories (valid, invalid, missing, wrong spelling)
+Racquel will focus on location data
+Daisy will focus on numerical data
+Abdullah will focus on language data
+
+December 3rd 
+Study the time efficiency of the 1st round of approaches and make attempts to optimize, then record any improvements. 
+Combine the 3 parts into 1 process to be run on a set of input columns. 
+
+December 7th
+Submit final project
+
