@@ -1,4 +1,4 @@
-There are two separate parsers in this section of the repo. One to look for US States another for New York City boroughs.
+There are two separate parsers in this section of the repo. One to look for US States, another for New York City boroughs.
 
 To the run the scripts, please do the following:
 
