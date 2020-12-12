@@ -29,6 +29,6 @@ To the run the scripts, please do the following:
     check_boros.py [CSV File Path]
     </code></pre>  
 
-5. Each column that is parsed from the input file will generate its own output file, with a name indicating the original file name, the column number and whether it was checking for states or boroughs. For example, 
+5. Each column that is parsed from the input file will generate its own output file, with a name indicating the original file name, the column number and whether it was checking for states or boroughs. For example, `311_Service_Requests_from_2010_to_Present.csvcol_30_parsed-boro.out` evaluates column 30 in the 311 Service Requests for New York City boroughs.
 
 <b>Note:</b> Not all columns are parsed. Only columns where the parser detects a valid value in the first 100 rows are screened
